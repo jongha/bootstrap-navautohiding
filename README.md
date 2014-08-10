@@ -1,4 +1,2 @@
-bootstrap-navautohiding
-=======================
+# Bootstrap Navigation Auto Hiding
 
-Bootstrap navigation auto hiding.
